@@ -47,4 +47,7 @@ as;
 This is where we include some basic lines of codes or queries or even some of the DAX
 expressions used during analysis 
 
-
+```  SQL
+SELECT A,B,C
+Where A> 15
+```
