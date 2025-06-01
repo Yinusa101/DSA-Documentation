@@ -17,7 +17,11 @@ be freely downloaded from an open source online such as Kaggle or FRED or any ot
 site.
 
 ### Tools used 
-- Ms Excel for data cleaning (Download here)
+- Ms Excel for data cleaning [Download here](https//www.microsoft.com)
+   - For data collection
+   - For data Cleaning
+     1. Data Manipulation
+     2. Data Munching  
 - Ms SQL Server  (for Querying and ananlysis)
 - Power BI (for Creating report)
 - Ms Power Point (Presentation)
