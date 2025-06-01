@@ -51,3 +51,13 @@ expressions used during analysis
 SELECT A,B,C
 Where A> 15
 ```
+
+
+### Analysis
+
+![Barchatgit](https://github.com/user-attachments/assets/55804a91-5072-49e4-8ded-fd082b4d7355)
+
+![piechart](https://github.com/user-attachments/assets/72d1dcc0-a049-4329-986e-22d8d55bb125)
+
+**Bold**
+*Italics*
